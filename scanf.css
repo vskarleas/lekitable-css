@@ -1,0 +1,276 @@
+.vendor-customer-registration {
+    display: none !important;
+}
+
+.aws-container .aws-search-form .aws-form-btn {
+    background: #201D1E;
+    border-color: #201D1E;
+}
+.aws-container .aws-search-form .aws-search-btn.aws-form-btn {
+    background: #201D1E;
+}
+
+.aws-container .aws-search-form .aws-search-btn.aws-form-btn:hover {
+    background: #201D1E;
+}
+.aws-container .aws-search-form .aws-search-btn svg {
+    fill: #fff;
+}
+.aws-container .aws-search-field {
+    border-right: none !important;
+    background: #fff;
+}
+.aws-container .aws-search-form .aws-main-filter.aws-form-btn {
+    border-left: none !important;
+}
+.aws-container .aws-search-field {
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+}
+.aws-container .aws-search-form .aws-search-btn.aws-form-btn {
+    border-top-right-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+}
+
+a.left
+{
+    position: relative;
+}
+
+a.left:before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #FFF;
+  visibility: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
+a.left:hover:before {
+  visibility: visible;
+  width: 100%;
+}
+
+.woostify-tag-on-sale {
+	background-color: #BF0603;
+}
+
+.woostify-out-of-stock-label {
+	background-color: #1E7ECE;
+}
+
+.woocommerce-button.button.invoice {
+	background-color: #ffffff;
+	color: #1E7ECE;
+}
+
+.button.delete {
+	background-color: #ffffff;
+	color: #BF0603;
+}
+
+.woocommerce-button.button.view {
+	background-color: #1E7ECE;
+	color: #ffffff;
+}
+
+.mapboxgl-ctrl-icon.mapboxgl-ctrl-zoom-in  {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+.mapboxgl-ctrl-icon.mapboxgl-ctrl-zoom-out  {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+.mapboxgl-ctrl-icon.mapboxgl-ctrl-zoom-in:hover  {
+	color: #000000;
+	background-color: #ffffff;
+}
+
+.mapboxgl-ctrl-icon.mapboxgl-ctrl-zoom-out:hover  {
+	color: #000000;
+	background-color: #ffffff;
+}
+
+.mapboxgl-ctrl-compass-arrow {
+	background-color: #ffffff;
+}
+
+.mapboxgl-ctrl-icon.mapboxgl-ctrl-compass {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+.mapboxgl-ctrl-icon.mapboxgl-ctrl-compass:hover {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+button#mceu_1-button {background-color: transparent; !important}
+
+button#mceu_44-button {background-color: transparent; !important}
+
+button#mceu_57-button {background-color: transparent; !important}
+
+button#mceu_0-button {background-color: transparent; !important}
+
+button#mceu_2-button {background-color: transparent; !important}
+
+button#mceu_10-button {background-color: transparent; !important}
+
+button#mceu_11-button {background-color: transparent; !important}
+
+button#mceu_12-button {background-color: transparent; !important}
+
+button#mceu_13-button {background-color: transparent; !important}
+
+button#mceu_3-button {background-color: transparent; !important}
+
+button#mceu_4-button {background-color: transparent; !important}
+
+button#mceu_5-button {background-color: transparent; !important}
+
+button#toggle-sidebar-mobile-button {
+	color: #000000;
+}
+
+button#mceu_6-button {background-color: transparent; !important}
+
+button#mceu_7-button {background-color: transparent; !important}
+
+button#mceu_8-button {background-color: transparent; !important}
+
+button#mceu_9-button {background-color: transparent; !important}
+
+.select2-results__option.select2-results__option--highlighted {
+	background-color: #ffffff;
+}
+
+.media-modal-close {
+	background-color: #ffffff;
+	color: #201D1E;
+}
+
+button#menu-item-upload:hover {
+	color: #1E7ECE;
+	background-color: #ffffff;
+}
+
+button#menu-item-upload {
+	color: #201D1E;
+	background-color: #ffffff;
+}
+
+button#media-menu-item:hover {
+	visibility: hidden;
+}
+
+button#media-menu-item {
+	visibility: hidden;
+}
+
+.button.wc-forward {
+	background-color: #1e7ece;
+}
+
+.woocommerce-form.woocommerce-form-login.login {
+	border: 0px solid #eb4e24;
+}
+
+.woocommerce-form.woocommerce-form-register.register {
+	border: 1px solid #D5D5D7;
+	border-radius: 5px;
+}
+
+button.mfp-close {
+	background-color: #ffffff;
+}
+
+button.mfp-close:hover {
+	background-color: #ffffff;
+	color: #BF0603;
+}
+
+button#mceu_45-button {background-color: transparent; !important}
+
+button#mceu_44-open {background-color: transparent; !important}
+
+button#mceu_46-button {background-color: transparent; !important}
+
+button#mceu_47-button {background-color: transparent; !important}
+
+button#mceu_48-button {background-color: transparent; !important}
+
+button#mceu_49-button {background-color: transparent; !important}
+
+button#mceu_50-button {background-color: transparent; !important}
+
+button#mceu_51-button {background-color: transparent; !important}
+
+button#mceu_52-button {background-color: transparent; !important}
+
+button#mceu_53-button {background-color: transparent; !important}
+
+button#mceu_54-button {background-color: transparent; !important}
+
+button#mceu_55-button {background-color: transparent; !important}
+
+button#mceu_56-button {background-color: transparent; !important}
+
+button.button.button-link.media-frame-menu-toggle {
+	visibility: hidden;
+}
+
+button.media-modal-close {
+	background-color: #ffffff;
+	color: #201D1E;
+}
+
+button.media-modal-close:hover {
+	background-color: #ffffff;
+	color: #1e7ece;
+}
+
+span.setting.has-description {
+	visibility: hidden;
+}
+
+p.description#alt-text-description {
+	visibility: hidden;
+}
+
+span.setting {
+	visibility: hidden;
+}
+
+button.media-menu-item#menu-item-browse:hover {
+	color: #1e7ece;
+	background-color: #ffffff;
+}
+
+button.media-menu-item#menu-item-browse {
+	color: #201D1E;
+}
+
+div.elementor-field-type-text.elementor-field-group.elementor-column.elementor-field-group-field_cebd589.elementor-col-100 {
+	visibility: hidden;
+}
+
+div.elementor-field-type-text.elementor-field-group.elementor-column.elementor-column.elementor-field-group-field_831ce86.elementor-col-100 {
+	visibility: hidden;
+}
+
+.jdgm-submit-rev.btn.btn_c.button {
+	background-color: #ffffff;
+	color: #1E7ECE;
+	border: 0px;
+}
+
+p.price .woocommerce-Price-amount.amount{
+color:#000!important;
+}
